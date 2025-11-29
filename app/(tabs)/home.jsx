@@ -29,7 +29,7 @@ const StudentDashboard = () => {
       >   
          <View style={styles.innerCOn}> 
             <View style={{width: '70%'}}>
-              <Text style={styles.dashboartxt}>Student Dashboard</Text>
+              <Text style={styles.dashboartxt}>Students Dashboard</Text>
             </View>
             <View style={styles.logo}>
               <Image source={require('../../assets/icon-occ.webp')} style={{width:40, height:40 , opacity:0.5}}>
